@@ -17,6 +17,10 @@
 ### Pra me contatar, é só me mandar mensagem por essas redes!
  
 <div> 
-  <a href = "karolinemunhozcontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "karolinemunhozcontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <p> karolinemunhozcontato@gmail.ccom
+   
+    </p>
+  </a>
   <a href="https://www.linkedin.com/in/karoline-munh%C3%B3z-890b26258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
