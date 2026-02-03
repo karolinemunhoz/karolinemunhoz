@@ -1,40 +1,28 @@
 ## Bem-vindo(a) ao perfil da Karoline 😁
-
-<div align="center">
-  <a href="https://github.com/karolinemunhoz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karolinemunhoz&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinemunhoz&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
+<div>
+    <a href="https://github.com/karolinemunhoz">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karolinemunhoz&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinemunhoz&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=86400" />
+    </a>
 </div>
-
-<br>
-
-<div align="center">
-  <img alt="JavaScript" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img alt="HTML5" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-</div>
-
-<br>
-
-### 📬 Pra me contatar, é só me mandar mensagem por essas redes!
-
-<div align="center">
-  <a href="mailto:karolinemunhozcontato@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/karoline-munh%C3%B3z-890b26258/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  📧 <strong>karolinemunhozcontato@gmail.com</strong>
+<div style="display: inline_block"> <br>
+    <img align="center" alt="Js" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div> <br>
+### Pra me contatar, é só me mandar mensagem por essas redes!
+<div>
+    <a href="https://www.google.com/intl/pt-BR/gmail/about/">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <p>
+        karolinemunhozcontato@gmail.com
+    </p>
+    <a href="https://www.linkedin.com/in/karoline-munh%C3%B3z-890b26258/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
 </div>
 
