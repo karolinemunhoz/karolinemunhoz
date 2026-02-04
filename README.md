@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil da Karoline 😁
 <div>
     <a href="https://github.com/karolinemunhoz">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=karolinemunhoz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats" />
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=karolinemunhoz&layout=compact&langs_count=7&theme=dracula" alt="Top languages" />
+        <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=karolinemunhoz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats" />
+        <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=karolinemunhoz&layout=compact&langs_count=7&theme=dracula" alt="Top languages" />
     </a>
 </div>
 <div style="display: inline_block"> <br>
