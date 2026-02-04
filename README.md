@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil da Karoline 😁
 <div>
     <a href="https://github.com/karolinemunhoz">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karolinemunhoz&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinemunhoz&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=86400" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karolinemunhoz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinemunhoz&layout=compact&langs_count=7&theme=dracula"/>
     </a>
 </div>
 <div style="display: inline_block"> <br>
